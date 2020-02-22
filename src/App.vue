@@ -7,11 +7,13 @@
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
+import { components } from 'aws-amplify-vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    HelloWorld,
+    ...components
   }
 }
 </script>
