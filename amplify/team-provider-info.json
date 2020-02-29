@@ -10,6 +10,11 @@
             "StackName": "amplify-image-collector-dev-195412",
             "StackId": "arn:aws:cloudformation:ap-northeast-1:209177458486:stack/amplify-image-collector-dev-195412/aa42e1c0-5561-11ea-ac91-0693e5f01c30",
             "AmplifyAppId": "d2qj4ca2fxykvk"
+        },
+        "categories": {
+            "auth": {
+                "imagecollectorecefc180": {}
+            }
         }
     }
 }
